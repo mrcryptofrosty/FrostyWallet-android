@@ -22,16 +22,19 @@ The interaction with the Web3 world is way easier using FrostyWallet thanks to t
 FrostyWallet is giving back the power to the people!
 
 ## Beta Version Instalation: 
+
 In order to install the beta versin you will need:
 - An `android device`
 - An internet connection
 
 #### Installation using your Android:
+
 1- Downlaod the latest release available [here]().
 2- Double click on the APK and accept the installation.
 3- Visit FrostyWallet app
 
 #### Installation using your PC
+
 1- Download the latest release available [here]().
 2- Connect your Android to your PC
 3- Transfer the APK file to your Android device.
