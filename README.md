@@ -29,13 +29,13 @@ In order to install the beta versin you will need:
 
 #### Installation using your Android:
 
-- Downlaod the latest release available [here]().
+- Downlaod the latest release available [here](https://github.com/mrcryptofrosty/FrostyWallet-android/releases/tag/v0.10.1).
 - Double click on the APK and accept the installation.
 - Visit FrostyWallet app
 
 #### Installation using your PC
 
-- Download the latest release available [here]().
+- Download the latest release available [here](https://github.com/mrcryptofrosty/FrostyWallet-android/releases/tag/v0.10.1).
 - Connect your Android to your PC
 - Transfer the APK file to your Android device.
 - On your android device, locate the APK and install it (double click)
